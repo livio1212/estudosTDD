@@ -130,12 +130,4 @@ Cria um novo post no banco de dados. Todos os campos são obrigatórios
     }
 ---
 
-**Desafios sugeridos**
 
-- Usando os conceitos de TDD
-
-[ ] Implementar uma rota que retorne todos os posts de um usuário
-
-[ ] Implementar uma rota que permita excluir um post
-
-### Happy hacking!
